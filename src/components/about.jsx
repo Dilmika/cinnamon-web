@@ -62,7 +62,7 @@ export const About = (props) => {
             <div className="about-text">
               <div className="about-text-style ">
                 <h2 className="header-text-h4">
-                  Why<br></br> Shinamon
+                  Why<br></br> WM SPICES
                 </h2>
               </div>
               <div className="paragraph-text-style">
