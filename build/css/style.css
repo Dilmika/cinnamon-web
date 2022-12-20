@@ -96,7 +96,7 @@ hr {
   color: rgb(255, 137, 2);
   text-transform: uppercase;
   pointer-events: none;
-  letter-spacing: 10px !important;
+  letter-spacing: 1px !important;
 }
 #menu.navbar-default .navbar-nav > li > a {
   font-family: "Lato", sans-serif;
