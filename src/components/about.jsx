@@ -51,7 +51,7 @@ export const About = (props) => {
               <div className="col-xs-12 col-md-6">
                 <div className="text-container">
                   <img
-                    src="img/box-img-1.png"
+                    src="img/7.png"
                     alt="Snow"
                     className="image-under-text"
                   ></img>
@@ -63,7 +63,7 @@ export const About = (props) => {
               <div className="col-xs-12 col-md-6">
                 <div className="text-container">
                   <img
-                    src="img/box-img-3.png"
+                    src="img/2.png"
                     alt="Snow"
                     className="image-under-text"
                   ></img>
@@ -77,7 +77,7 @@ export const About = (props) => {
               <div className="col-xs-12 col-md-6">
                 <div className="text-container">
                   <img
-                    src="img/box-img-2.png"
+                    src="img/1.png"
                     alt="Snow"
                     className="image-under-text"
                   ></img>
@@ -89,7 +89,7 @@ export const About = (props) => {
               <div className="col-xs-12 col-md-6">
                 <div className="text-container">
                   <img
-                    src="img/box-img-4.png"
+                    src="img/6.png"
                     alt="Snow"
                     className="image-under-text"
                   ></img>
@@ -142,7 +142,7 @@ export const About = (props) => {
               <div className="col-xs-12 col-md-6">
                 <div className="text-container">
                   <img
-                    src="img/box-img-3.png"
+                    src="img/4.png"
                     alt="Snow"
                     className="image-under-text"
                   ></img>
