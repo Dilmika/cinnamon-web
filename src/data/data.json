@@ -67,34 +67,24 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cart-plus",
+      "name": "Collection bulk and Sorting",
+      "text": "WM spices owns and we are operating 2 collection centers for pure Ceylon Cinnamon. The unloaded cinnamon barks are firstly taken through the initial sorting process, to separate the wet barks from the already dry barks. Cinnamon can only be processed if the sticks are 100% dry."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-pencil",
+      "name": "Peeling & Rolling",
+      "text": "Pure unloaded dry barks peeled to remove knots and scraped to a well smooth texture by WM spices own expert, to keep preserve quality. Quills are manufactured by rolling the barks into a cigar-shaped quill."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-search",
+      "name": "Moisture Checking of barks and Storing",
+      "text": "A crucial tool used in this process is the Moisture Meters which can detect the level of moisture in the quills. Depending on the levels of moisture retained in the barks, the storing and drying time will range from 3-6 days."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-flag-checkered",
+      "name": "Grading",
+      "text": "The dry barks are sorted daily by experts of the cinnamon grading profession. Each quill is inspected and then sorted into different grades, The H2 grade (comprises of the sorted thicker barks rolled into quills and has a good demand due to its quality) and C4 grade (this grade has a higher demand because it has a smooth texture, exquisite aroma and it is the best quality, pale golden-brown tinge with a sweet taste). All the quills are graded according to the requirements of different local and international buyers."
     }
   ],
   "Testimonials": [
@@ -131,33 +121,22 @@
   ],
   "Team": [
     {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "img": "img/team/05.jpg",
+      "name": "Kasun Weerarathne",
+      "job": "Director (Head of Marketing and operation)"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
+      "name": "Malawara Arachchchige Kumuduneesha",
+      "job": "Director (Head of quality, production and Transport management)"
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
-    "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "address": "154/A/1/2 Matara Road, Kamburupitiya",
+    "phone1": "076 7552267 (K.Weerarathne)",
+    "phone2": "071 6722479 (K.Mallawaarachi)",
+    "phone3": "074 3840440 (General Number)",
+    "email": "Info.wmspices@gmail.com"
   },
   "Features": [
     {

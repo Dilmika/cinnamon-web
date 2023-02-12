@@ -110,7 +110,9 @@ export const Contact = (props) => {
                 <span>
                   <i className='fa fa-phone'></i> Phone
                 </span>{' '}
-                {props.data ? props.data.phone : 'loading'}
+                <div>{props.data ? props.data.phone1 : 'loading'}</div>
+                <div>{props.data ? props.data.phone2 : 'loading'}</div>
+                <div>{props.data ? props.data.phone3 : 'loading'}</div>
               </p>
             </div>
             <div className='contact-item'>

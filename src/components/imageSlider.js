@@ -27,8 +27,8 @@ export default function ImageSlider() {
   return (
     <div >
       <SimpleImageSlider
-        width='100%'
-        height="90%"
+        width={"110%"}
+        height={"90%"}
         images={images}
         showBullets={true}
         showNavs={true}

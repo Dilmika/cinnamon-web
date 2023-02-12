@@ -178,6 +178,10 @@ hr {
 }
 #menu.navbar-default-scroll .navbar-nav > li > a:hover:after {
   width: 100%;
+  /* background-color: transparent; */
+
+
+  
 }
 .navbar-default-scroll .navbar-nav > .active > a,
 .navbar-default-scroll .navbar-nav > .active > a:hover,
@@ -471,7 +475,7 @@ header .intro-text {
 }
 /* Services Section */
 .manufacture-sub-topic{
-  font-size: 25px !important;
+  /* font-size: 25px !important; */
 }
 
 #services {
