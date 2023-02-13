@@ -4,11 +4,10 @@ import './slider.css'
 
 
 let images = [
-  { url: 'images/img1.jpg' },
-  { url: 'images/img2.jpg' },
-  { url: 'images/img3.jpg' },
-  { url: 'images/img4.jpg' },
-  { url: 'images/img6.jpg' }
+  { url: 'images/1.png' },
+  { url: 'images/2.png' },
+  { url: 'images/3.png' },
+  { url: 'images/4.png' }
 ];
 
 // let imagesTemp = images;
